@@ -10,3 +10,4 @@ numberList [4]=45;
 // console.log(numberList[2]);
 console.log(numberList);
 
+console.log(numberList[3])
